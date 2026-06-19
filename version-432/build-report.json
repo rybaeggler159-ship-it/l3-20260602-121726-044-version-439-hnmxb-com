@@ -1,0 +1,24 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_counts": {
+    "hot-picks": 200,
+    "domestic-drama": 200,
+    "romance-healing": 200,
+    "suspense-crime": 200,
+    "fantasy-sci-fi": 200,
+    "action-adventure": 200,
+    "comedy-family": 200,
+    "period-costume": 200,
+    "global-theater": 200,
+    "animation-documentary": 200
+  },
+  "category_card_total": 2000,
+  "html_files": 2014,
+  "hls_sources_extracted_from_original_js": 20,
+  "baidu_script_missing_pages": [],
+  "image_files_in_package": [],
+  "logo": "国产热播剧",
+  "site_title": "国产热门电视剧-电视剧热播榜单-全集高清在线播放"
+}
